@@ -114,5 +114,5 @@ def classify_number():
     return jsonify(response_data), 200
 
 # Entry point
-if __name__ == '__main__':
-    app.run(debug=DEBUG_MODE)
+# if __name__ == '__main__':
+#     app.run(debug=DEBUG_MODE)
