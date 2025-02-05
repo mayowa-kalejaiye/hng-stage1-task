@@ -45,8 +45,8 @@ Example: GET `/api/classify-number?number=alphabet`
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/number-classification-api.git
-   cd number-classification-api
+   git clone https://github.com/<your-username>/hng-stage1-task.git
+   cd hng-stage1-task
    ```
 
 2. Create and activate a virtual environment:
@@ -68,7 +68,7 @@ Example: GET `/api/classify-number?number=alphabet`
 4. Run the application locally:
 
    ```bash
-   python app.py
+   python main.py
    ```
 
 5. The API will be accessible at:
