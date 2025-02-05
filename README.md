@@ -1,5 +1,8 @@
-# hng-stage1-task
-# Number Classification API
+# HNG-stage1-task
+
+---
+
+## Number Classification API
 
 A RESTful API that takes an integer as input and returns interesting mathematical properties along with a fun fact. It checks if the number is prime, perfect, Armstrong (narcissistic), determines its parity, calculates the digit sum, and fetches a math-related fun fact.
 
@@ -45,8 +48,8 @@ Example: GET `/api/classify-number?number=alphabet`
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/hng-stage1-task.git
-   cd hng-stage1-task
+   git clone https://github.com/<your-username>/number-classification-api.git
+   cd number-classification-api
    ```
 
 2. Create and activate a virtual environment:
@@ -68,7 +71,7 @@ Example: GET `/api/classify-number?number=alphabet`
 4. Run the application locally:
 
    ```bash
-   python main.py
+   python app.py
    ```
 
 5. The API will be accessible at:
