@@ -48,8 +48,8 @@ Example: GET `/api/classify-number?number=alphabet`
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/number-classification-api.git
-   cd number-classification-api
+   git clone [https://github.com/mayowa-kalejaiye/hngx-stage1-number-classification-api.git](https://github.com/mayowa-kalejaiye/hngx-stage1-number-classification-api.git)
+   cd hngx-stage1-number-classification-api
    ```
 
 2. Create and activate a virtual environment:
@@ -79,7 +79,7 @@ Example: GET `/api/classify-number?number=alphabet`
 
 ## Configuration
 
-Set configuration constants in `app.py`:
+Set configuration constants in `main.py`:
 
 - `NUMBERS_API_BASE_URL`: Base URL for the Numbers API.
 - `DEBUG_MODE`: Controlled by the `DEBUG` environment variable (default is True).
@@ -102,10 +102,3 @@ This project is licensed under the MIT License.
 
 - Numbers API for providing fun math facts.
 - Flask and flask-CORS for enabling fast API development.
-
----
-
-### Notes
-
-- Replace `<your-username>` and `<your-domain.com>` with your actual details.
-- Run `pip freeze > requirements.txt` to update dependencies if needed.
