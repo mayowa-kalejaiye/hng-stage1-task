@@ -1,4 +1,4 @@
-# hngx-stage1-task
+# hngx-stage1-number-classification-api
 
 ---
 
