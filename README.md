@@ -1,4 +1,4 @@
-# hngx-stage1-number-classification-api
+# HNG12 Stage 1 Task
 
 ---
 
